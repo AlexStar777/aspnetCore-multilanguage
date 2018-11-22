@@ -1,0 +1,6 @@
+*.cache
+*.props
+.csproj.nuget.g.props
+*.assets.cache
+*.csproj.nuget.cache
+*.txt
